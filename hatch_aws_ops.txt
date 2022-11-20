@@ -1,0 +1,5 @@
+Set alarm go off when latency becomes unacceptable
+Create alarm on CloudWatch with ELB Metrics category.
+Configure the alarm threshold to go off when latent exceeds the given length.
+Add Actions to notify devs or ops. SNS can handle email notifications.
+
